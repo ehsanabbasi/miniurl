@@ -1,5 +1,5 @@
 {
-  "name": "sheypoor/miniurl",
+  "name": "ehsan/miniurl",
   "description": "Simple Url Shortener",
   "require": {
     "PHP": "^7.1",
