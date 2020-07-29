@@ -14,7 +14,7 @@ class ShortUrlTest extends TestCase
     private $shortUrl;
     private $redis;
     private $config =[
-                        'baseUrl' => 'http://sheypoor.com',
+                        'baseUrl' => 'https://sheypoor.com',
                         'databaseType' => 'redis',
                         'host' => 'localhost',
                         'port' => 6379,

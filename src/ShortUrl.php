@@ -59,7 +59,7 @@ class ShortUrl
      * @param string $hashKey
      * @return string
      */
-    public function getUrl(string $hashKey) : ?string
+    public function getUrl(string $hashKey) :?string
     {
         return $this->storage->getUrlByHash($hashKey);
 
